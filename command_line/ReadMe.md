@@ -10,8 +10,13 @@ she meet?
 
 ## Characters
 
-* Laura - Julie Hutchinson
-* Jade - Lead Student Experience
-* Brauss - Teacher / Mentor
-* Mitchel - Front End Teacher
-* Alan - CS Teacher
+* Laura - January Jones
+* Jade - Betty White
+* Brauss - George Lucas
+* Mitchel - Jack Frost
+* Alan - Jimmy Neutron
+* The Boyfriend - Ryan Seacrest
+
+##Notes
+
+There needs to be some sort of romantic interest for Laura. I've added a character to do that.
